@@ -3921,6 +3921,9 @@ body.search-is-visible {
 .folio-item img {
     display: block;
     margin: 0;
+    width: 400px;
+    height: 450px;
+    object-fit: cover;
 }
 
 .folio-item__text {

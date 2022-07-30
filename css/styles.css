@@ -3942,11 +3942,12 @@ body.search-is-visible {
  * ## modal popup
  * ------------------------------------------------------------------- */
 .modal-popup {
-    max-width: 680px;
+    width: 680px;
     background-color: white;
     overflow-y: auto;
     position: relative;
 }
+
 
 .modal-popup img {
     margin-bottom: var(--vspace-0_5);
